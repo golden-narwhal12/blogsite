@@ -38,7 +38,7 @@
   <ul>
     <li><a href="snake.html">snake 2/23/2023</a></li>
     <br>
-    <li><a href="prints-and-drawings.html">drawings/prints 2/27/2023 - x</a></li>
+    <li><a href="prints and drawings.html">drawings/prints 2/27/2023 - x</a></li>
   </ul>
 
   <footer class="footer">
