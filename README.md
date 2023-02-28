@@ -1,25 +1,48 @@
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  color: green;
-  background-color: black;
-}
-h1 {
-    margin-left: 1px;
-}
-</style>
+  <meta charset="UTF-8">
+  <title>n4u</title>
+  <style>
+    body {
+      color: green;
+      background-color: black;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h1 {
+      margin-left: 1rem;
+    }
+    
+    a {
+      color: green;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .footer {
+      position: fixed;
+      bottom: 10px;
+      left: 15px;
+      color: white;
+    }
+  </style>
 </head>
 <body>
+  <h1>n4u</h1>
+  <p>things i find interesting</p>
 
-<h1>n4u</h1>
-<p>things i find interesting</p>
+  <ul>
+    <li><a href="snake.html">snake 2/23/2023</a></li>
+    <li><a href="prints-and-drawings.html">drawings/prints 2/27/2023 - x</a></li>
+  </ul>
 
-<a href="snake.html" style="color: green;"">snake 2/23/2023 </a>
-<br><br> 
-<a href="prints and drawings.html" style="color:green">drawings/prints 2/27/2023 - x </a>
-<br> <br> 
-
+  <footer class="footer">
+    <p>made by pranav sharma</p>
+  </footer>
 </body>
-<a href="me.html" style="color: white; position: absolute; bottom: 10; left: 15; ">made by pranav sharma</a>
 </html>
