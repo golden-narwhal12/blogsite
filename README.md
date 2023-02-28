@@ -1,4 +1,3 @@
-# blogsite
 <html>
 <head>
 <style>
@@ -16,9 +15,9 @@ h1 {
 <h1>n4u</h1>
 <p>things i find interesting</p>
 
-<a href="C:\Users\Pranav Sharma\Desktop\project\snake.html" style="color: green;"">snake 2/23/2023</a>
+<a href="project\snake.html" style="color: green;"">snake 2/23/2023</a>
 <br><br> 
-<a href="C:\Users\Pranav Sharma\Desktop\project\prints and drawings.html" style="color:green">drawings/prints 2/27/2023 - x </a>
+<a href="project\prints and drawings.html" style="color:green">drawings/prints 2/27/2023 - x </a>
 <br> <br> 
 
 </body>
