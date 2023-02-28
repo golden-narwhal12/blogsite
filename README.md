@@ -17,7 +17,6 @@
     
     a {
       color: green;
-      text-decoration: none;
     }
     
     a:hover {
@@ -26,7 +25,7 @@
     
     .footer {
       position: fixed;
-      bottom: 10px;
+      bottom: 5px;
       left: 15px;
       color: white;
     }
@@ -38,11 +37,12 @@
 
   <ul>
     <li><a href="snake.html">snake 2/23/2023</a></li>
+    <br>
     <li><a href="prints-and-drawings.html">drawings/prints 2/27/2023 - x</a></li>
   </ul>
 
   <footer class="footer">
-    <p>made by pranav sharma</p>
+    <p><a href="me.html" style="color:white">made by pranav sharma</p>
   </footer>
 </body>
 </html>
